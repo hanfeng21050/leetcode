@@ -54,7 +54,7 @@ class question_13{
 // Related Topics 数学 字符串
 
 
-//easy.leetcode submit region begin(Prohibit modification and deletion)
+//leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int romanToInt(String s) {
         char[] chars = s.toCharArray();
@@ -127,6 +127,6 @@ class Solution {
         return res;
     }
 }
-//easy.leetcode submit region end(Prohibit modification and deletion)
+//leetcode submit region end(Prohibit modification and deletion)
 
 }

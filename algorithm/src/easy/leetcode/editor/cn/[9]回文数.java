@@ -30,7 +30,7 @@ class question_9{
 
 
 
-//easy.leetcode submit region begin(Prohibit modification and deletion)
+//leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public boolean isPalindrome(int x) {
         //如果x为负数、0、一位正数，则x不是回文数
@@ -54,5 +54,5 @@ class Solution {
         return x == res || x == res/10;
     }
 }
-//easy.leetcode submit region end(Prohibit modification and deletion)
+//leetcode submit region end(Prohibit modification and deletion)
 }

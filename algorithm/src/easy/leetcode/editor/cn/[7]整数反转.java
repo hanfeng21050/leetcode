@@ -28,7 +28,7 @@ class question_7{
 
 
 
-//easy.leetcode submit region begin(Prohibit modification and deletion)
+//leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int reverse(int x) {
         long res = 0;
@@ -53,5 +53,5 @@ class Solution {
         return (int) res;
     }
 }
-//easy.leetcode submit region end(Prohibit modification and deletion)
+//leetcode submit region end(Prohibit modification and deletion)
 }

@@ -17,7 +17,7 @@ class question_2{
 
 
 
-//easy.leetcode submit region begin(Prohibit modification and deletion)
+//leetcode submit region begin(Prohibit modification and deletion)
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -77,6 +77,6 @@ class Solution {
         return head;
     }
 }
-//easy.leetcode submit region end(Prohibit modification and deletion)
+//leetcode submit region end(Prohibit modification and deletion)
 
 }
