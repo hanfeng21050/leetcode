@@ -23,7 +23,6 @@ class question_22{
 // Related Topics 字符串 回溯算法 
 // 👍 1320 👎 0
 
-
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public List<String> generateParenthesis(int n) {
